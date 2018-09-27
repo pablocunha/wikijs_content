@@ -1,7 +1,7 @@
 <!-- TITLE: Notas De Produtos -->
 <!-- SUBTITLE: A quick summary of Notas De Produtos -->
 
-# Header
+# Notas de Produtos
 
 Esta é a Tela para Lançamentos de Notas de Produtos: Entradas e Saídas.
 
